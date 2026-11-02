@@ -1,0 +1,44 @@
+{
+  "formatVersion": "1.0",
+  "worlds": [
+    {
+      "id": "w01",
+      "revision": 2,
+      "url": "worlds/world-01.json",
+      "sha256": "bffd5977f56f926c250ac3e31a3b8b00aacd6b1676800480cc9c5fa0e22f9a5b",
+      "minAppVersion": "1.0"
+    },
+    {
+      "id": "w02",
+      "revision": 1,
+      "url": "worlds/world-02.json",
+      "sha256": "474104297496aea413a263706acd438c0bb296ee35a66881ab16dff4735605fc",
+      "minAppVersion": "1.0"
+    },
+    {
+      "id": "w03",
+      "revision": 1,
+      "url": "worlds/world-03.json",
+      "sha256": "0436d6aea866d0ec0ac7aa0dad69fe5f4e806bd6737f4ad010c2c06be35d1c56",
+      "minAppVersion": "1.0"
+    },
+    {
+      "id": "w04",
+      "revision": 1,
+      "url": "worlds/world-04.json",
+      "sha256": "7158cd22c8167e25c2ad868e311741f36ae525a93e66bda160e1ea133883c237",
+      "minAppVersion": "1.0"
+    }
+  ],
+  "daily": {
+    "pool": {
+      "url": "daily/pool.json",
+      "sha256": "e49428f0ee716c77c2400b28ee2fdbccac9ad96766cb9fcbf1f4f9ee62e5b533"
+    },
+    "schedule": {
+      "url": "daily/schedule.json",
+      "sha256": "dce55036d99d8a70f81627701c31037a65a683a9114fbb3918a8144380afac62"
+    },
+    "minAppVersion": "1.0"
+  }
+}

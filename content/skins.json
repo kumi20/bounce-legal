@@ -1,0 +1,19 @@
+{
+  "formatVersion": "1.0",
+  "skins": [
+    { "id": "skin-sky", "name": { "pl": "Niebieski", "en": "Sky Blue" }, "colors": ["#3A8DDE", "#FFFFFF"], "pattern": "solid", "trail": "none", "source": "free" },
+    { "id": "skin-mint", "name": { "pl": "Miętowe paski", "en": "Mint Stripes" }, "colors": ["#3DBE8B", "#E6FFF4"], "pattern": "stripes", "trail": "none", "source": "free" },
+    { "id": "skin-sun", "name": { "pl": "Słoneczne kropki", "en": "Sunny Dots" }, "colors": ["#F6B93B", "#FFF3D1"], "pattern": "dots", "trail": "sparks", "source": "free" },
+    { "id": "skin-grape", "name": { "pl": "Winogrono", "en": "Grape" }, "colors": ["#7B4FD1", "#E4D6FF"], "pattern": "ring", "trail": "bubbles", "source": "free" },
+
+    { "id": "skin-meadow", "name": { "pl": "Mistrz Łąki", "en": "Meadow Master" }, "colors": ["#4CAF50", "#C8F2B0"], "pattern": "checker", "trail": "sparks", "source": "achievement" },
+    { "id": "skin-star", "name": { "pl": "Gwiezdny", "en": "Stardust" }, "colors": ["#2B2D6E", "#FFD84D"], "pattern": "dots", "trail": "stars", "source": "achievement" },
+    { "id": "skin-flame", "name": { "pl": "Płomień", "en": "Flame" }, "colors": ["#FF6A2B", "#FFD166"], "pattern": "stripes", "trail": "sparks", "source": "achievement" },
+
+    { "id": "skin-neon", "name": { "pl": "Neon", "en": "Neon" }, "colors": ["#12E5C4", "#0B1B2B"], "pattern": "ring", "trail": "sparks", "source": "premium" },
+    { "id": "skin-candy", "name": { "pl": "Cukierek", "en": "Candy" }, "colors": ["#FF5FA2", "#FFFFFF"], "pattern": "stripes", "trail": "bubbles", "source": "premium" },
+    { "id": "skin-galaxy", "name": { "pl": "Galaktyka", "en": "Galaxy" }, "colors": ["#1B1464", "#B388FF"], "pattern": "dots", "trail": "stars", "source": "premium" },
+    { "id": "skin-rainbow", "name": { "pl": "Tęcza", "en": "Rainbow" }, "colors": ["#E8402E", "#F6B93B", "#3DBE8B", "#3A8DDE"], "pattern": "stripes", "trail": "rainbow", "source": "premium" },
+    { "id": "skin-chess", "name": { "pl": "Szachownica", "en": "Chessboard" }, "colors": ["#222222", "#F2F2F2"], "pattern": "checker", "trail": "none", "source": "premium" }
+  ]
+}
